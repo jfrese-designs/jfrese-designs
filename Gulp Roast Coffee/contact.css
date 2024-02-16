@@ -123,6 +123,9 @@ footer p {
     text-align: center;
     font-size: 1.25rem;
 }    
+.contact-info a {
+  text-decoration: none;
+}
 .card {
     border-radius: 12px;
     margin: 0;

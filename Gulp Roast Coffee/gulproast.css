@@ -131,6 +131,9 @@ footer p {
     grid-template-columns: 1fr;
     grid-template-rows: 3.3fr 6.7fr;
 }    
+#line1 em {
+  color: #082b59;
+}
 
 .card h2 {
     line-height: 1.35;
